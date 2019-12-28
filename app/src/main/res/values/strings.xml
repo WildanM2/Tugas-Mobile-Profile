@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ProfileWildan</string>
+    <string name="nama">Wildan Maulidi Molyono</string>
+    <string name="nim">1718016</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="group">Add me to group</string>
+    <string name="comment">Show all comments</string>
+    <string name="button">Follow Me</string>
 </resources>
