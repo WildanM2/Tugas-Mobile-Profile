@@ -15,13 +15,4 @@ public class AboutActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
     }
-
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        if (item.getItemId() == R.id.about){
-            Intent intent = new Intent(Settings.ACTION_LOCALE_SETTINGS);
-            startActivity(intent);
-        }
-        return super.onOptionsItemSelected(item);
-    }
 }
