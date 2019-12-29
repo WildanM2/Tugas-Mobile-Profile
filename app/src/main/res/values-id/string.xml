@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfileWildan</string>
+    <string name="nama">Wildan Maulidi Molyono</string>
+    <string name="nim">1718016</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="group">Tambahkan saya ke grup</string>
+    <string name="comment">Perlihatkan semua komentar</string>
+    <string name="button">Ikuti Saya</string>
+</resources>
